@@ -1,3 +1,6 @@
+# Ember Spice Restaurant
+
+[🌐 View Live Website](https://ember-spice-restaurant.onrender.com)
 # Ember & Spice — Full-Stack Restaurant Portfolio Website
 
 A premium restaurant website built as a portfolio/demo project for a web agency.
